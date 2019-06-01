@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">InstaEvents</string>
+    <string name="activity2_name">Login Page</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">Event</string>
+    <string name="sports_info_placeholder">Here is some new on the event.</string>
+    <string name="go_to_login">Login</string>
+    <string name="signup_register">SignUp/Register</string>
+    <string name="signup">SignUp</string>
+    <string name="already_a_member_login">Already a member? Login</string>
+    <string name="login">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="password_editText">Password</string>
+    <string name="password">Password</string>
+    <string name="not_a_member_yet">Not a member yet?</string>
+    <string name="register">Register</string>
+
+    <string-array name="sports_titles">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cycling</item>
+        <item>Golf</item>
+        <item>Running</item>
+        <item>Soccer</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Here is some Baseball news!</item>
+        <item>Here is some Badminton news!</item>
+        <item>Here is some Basketball news!</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+        <item>Here is some Golf news!</item>
+        <item>Here is some Running news!</item>
+        <item>Here is some Soccer news!</item>
+        <item>Here is some Swimming news!</item>
+        <item>Here is some Table Tennis news!</item>
+        <item>Here is some Tennis news!</item>
+    </string-array>
+
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+    <string name="title_activity_login2">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="generic_text">According to Material Design guidelines, a card is used to provide an entry point to more detailed information. You may find yourself tapping on the cards to see more information about the sports, because that is how you expect cards to behave. In this section, you will add a detail activity that will be launched when any list item is pressed. For this practical, the detail activity will contain the name and image of the list item you clicked, but will contain only generic placeholder detail text, so you don\'t have to create custom detail for each list item.</string>
+    <string name="categories">Categories</string>
+    <string name="event_title">Event Title</string>
+    <string name="action_search_text">Search</string>
+    <string name="account_settings_text">Account Settings</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="reg_login_text">Already have an account?</string>
+    <string name="confirm_pass_text">Confirm Password</string>
+    <string name="create_an_account">Create an Account</string>
+</resources>

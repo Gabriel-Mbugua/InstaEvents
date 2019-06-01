@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1061852531765",
+    "firebase_url": "https://instaevents-e3634.firebaseio.com",
+    "project_id": "instaevents-e3634",
+    "storage_bucket": "instaevents-e3634.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061852531765:android:d593a8298d5dfec8",
+        "android_client_info": {
+          "package_name": "android.example.instaevents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061852531765-91naulj40bulllq2jbli7hs0ivs8osv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzW6bCIFIJaFVAgbpRNB8ViMwgg30_-_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061852531765-91naulj40bulllq2jbli7hs0ivs8osv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
